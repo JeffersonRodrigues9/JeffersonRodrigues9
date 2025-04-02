@@ -16,7 +16,7 @@ Acredito que o sucesso vai além das habilidades técnicas. Por isso, também bu
 Objetivo Profissional
 Atualmente, estou em busca da minha primeira oportunidade na área de dados, onde possa colocar em prática os conhecimentos adquiridos e contribuir para a construção de soluções estratégicas baseadas em dados.
 
-🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias
 
   <img src="https://skillicons.dev/icons?i=python,mysql,r,github,aws" />
 </p>
