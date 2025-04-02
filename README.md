@@ -40,7 +40,7 @@
 #### Python
 
 Projeto 01 - Análise Exploratória de Dados: Avaliações de Filmes. 
-Neste projeto, realizei uma análise exploratória de dados (EDA) sobre um conjunto de dados contendo notas e avaliações de filmes.
+ Neste projeto, realizei uma análise exploratória de dados (EDA) sobre um conjunto de dados contendo notas e avaliações de filmes.
 
 #### Machine Learning 
 Projeto 01 - O objetivo deste projeto é prever a aderência de clientes a uma campanha de marketing de um banco.
