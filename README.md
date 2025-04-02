@@ -18,7 +18,6 @@ Atualmente, estou em busca da minha primeira oportunidade na área de dados, ond
 
 <div>
   <h3>ano passado</h3>
-  Atualizar README.md
   <span>
     <a href="https://www.instagram.com/Bigjeeh/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
