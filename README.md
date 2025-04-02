@@ -2,12 +2,12 @@
 
 **`Analista de Dados`**
 
-🌍 Sou de Cotia - SP
-📚 Estudante de Ciência de Dados e Gestão Financeira
-📈 Me preparando para a certificação AWS Practitioner
-🎓 Principais linguagens: Python, SQL e R
-💻 Conhecimento em Excel, Power BI e AWS
-🚀 Em busca de crescimento e oportunidades na área de dados
+- 🌍 Sou de Cotia - SP
+- 📚 Estudante de Ciência de Dados e Gestão Financeira
+- 📈 Me preparando para a certificação AWS Practitioner
+- 🎓 Principais linguagens: Python, SQL e R
+- 💻 Conhecimento em Excel, Power BI e AWS
+- 🚀 Em busca de crescimento e oportunidades na área de dados
 
 "Transformar dados em decisões inteligentes é o caminho para o futuro."
 
