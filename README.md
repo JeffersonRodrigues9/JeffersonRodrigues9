@@ -17,10 +17,9 @@ Objetivo Profissional
 Atualmente, estou em busca da minha primeira oportunidade na área de dados, onde possa colocar em prática os conhecimentos adquiridos e contribuir para a construção de soluções estratégicas baseadas em dados.
 
 <div>
-  <h3>ano passado</h3>
   <span>
-    <a href="https://www.instagram.com/Bigjeeh/">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+    <a href="https://www.linkedin.com/in/jefferson-rodrigues-da-silva" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
   </span>
   <span>
@@ -29,8 +28,8 @@ Atualmente, estou em busca da minha primeira oportunidade na área de dados, ond
     </a>
   </span>
   <span>
-    <a href="https://www.linkedin.com/in/jefferson-rodrigues-da-silva" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <a href="https://www.instagram.com/Bigjeeh/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
     </a>
   </span>
 </div>
