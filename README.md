@@ -7,8 +7,9 @@
 - 📈 Me preparando para a certificação AWS Practitioner
 - 🎓 Principais linguagens: Python, SQL e R
 - 💻 Conhecimento em Excel, Power BI e AWS
+- 💪 Apaixonado por academia e desenvolvimento físico e mental
 
-"Transformar dados em decisões inteligentes é o caminho para o futuro."
+"Dados não contam histórias, mas sua análise pode criar uma narrativa poderosa."
 
 <div>
   <span>
