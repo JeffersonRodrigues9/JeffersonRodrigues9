@@ -36,3 +36,9 @@
 </p>
 
 ### 📂 Projetos
+
+## Machine Learning 
+Projeto 01 - O objetivo deste projeto é prever a aderência de clientes a uma campanha de marketing de um banco.
+
+Projeto 02 - Neste projeto de Machine Learning, o objetivo é construir um modelo de classificação para identificar clientes inadimplentes de uma empresa de empréstimo de automóveis.
+
