@@ -37,6 +37,8 @@
 
 ### 📂 Projetos
 
+#### Python
+
 #### Machine Learning 
 Projeto 01 - O objetivo deste projeto é prever a aderência de clientes a uma campanha de marketing de um banco.
 
