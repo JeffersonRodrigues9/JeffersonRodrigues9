@@ -47,3 +47,6 @@ Projeto 01 - O objetivo deste projeto é prever a aderência de clientes a uma c
 
 Projeto 02 - Neste projeto de Machine Learning, o objetivo é construir um modelo de classificação para identificar clientes inadimplentes de uma empresa de empréstimo de automóveis.
 
+Projeto 03 - O objetivo deste projeto é prever se um cliente vai manter ou cancelar sua reserva de hotel.
+
+
