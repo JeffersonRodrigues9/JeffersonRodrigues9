@@ -59,3 +59,13 @@ Projeto 4 - Classificação de qualidade do leite.
 Neste projeto, irei analisar caracteristicas de amostras de leite para identificar a qualidade e verificar se podem ser itilizados na produção dos projutos alimenticios.
 
 #### Business Intelligence (BI)
+
+Projeto 1 - Análise de dados Financeiros.
+
+Projeto 2 - Análise de Dados do Mercado de Ações.
+
+Projeto 3 - Dashboard Analítico de vendas Globais.
+
+Projeto 4 - Análise de campanhas de Marketing.
+
+Projeto 5 - Análise de dados de Recursos Humanos
