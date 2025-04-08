@@ -55,4 +55,5 @@ Projeto 02 - Neste projeto de Machine Learning, o objetivo é construir um model
 
 Projeto 03 - O objetivo deste projeto é prever se um cliente vai manter ou cancelar sua reserva de hotel.
 
-
+Projeto 4 - Classificaçõa de qualidade do leite.
+Neste projeto, irei analisar caracteristicas de amostras de leite para identificar a qualidade e verificar se podem ser itilizados na produção dos projutos alimenticios.
