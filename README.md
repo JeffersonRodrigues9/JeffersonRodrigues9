@@ -42,6 +42,12 @@
 Projeto 01 - Análise Exploratória de Dados: Avaliações de Filmes.
 Neste projeto, realizei uma análise exploratória de dados (EDA) sobre um conjunto de dados contendo notas e avaliações de filmes.
 
+Projeto 02 - O objetivo deste projeto é limpar a base de dados para construir um modelo de machine learning capaz de prever a taxa de churn dos clientes de uma empresa de telecomunicações
+
+Projeto 03 - Este projeto terá foco em precificação inteligente para hospedagem de imóveis, buscando otimizar os preços de forma estratégica.
+
+Projeto 04 - Nesse o objetico será maximizar o lucro de uma fazenda.
+
 #### Machine Learning 
 Projeto 01 - O objetivo deste projeto é prever a aderência de clientes a uma campanha de marketing de um banco.
 
