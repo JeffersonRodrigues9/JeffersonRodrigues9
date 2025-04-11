@@ -27,9 +27,6 @@
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
     </a>
   </span>
-
-  <img src="https://img.icons8.com/?size=100&id=13654&format=png&color=000000" alt="Excel Icon" width="30" height="30">
-
 </div>
 
 
