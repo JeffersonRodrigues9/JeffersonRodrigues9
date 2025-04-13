@@ -35,6 +35,9 @@
 
 ### 🤖 Linguagens e Tecnologias
 
+<img src="https://skillicons.dev/icons?i=python,mysql,mssql,r,github,aws" />
+
+
   <img src="https://skillicons.dev/icons?i=python,mysql,r,github,aws" />
 </p>
 
