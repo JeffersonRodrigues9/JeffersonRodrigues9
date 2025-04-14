@@ -84,5 +84,3 @@ Projeto 3 - Dashboard Financeiro sobre venda de suplementação
 Projeto 4 - Dashboard Financeiro referente a venda de 5 produtos em 4 unidades diferentes.
 
 Projeto 5 - Dashboard Fincanceiro mostrando a margem média mensal e o faturamento mensal dos produtos.
-
-Projeto 6 - Dashboard Financeiro mostrando as vendes de 4 lojas.
