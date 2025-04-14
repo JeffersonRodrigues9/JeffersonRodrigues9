@@ -74,3 +74,15 @@ Projeto 4 - Análise de campanhas de Marketing.
 Projeto 5 - Análise de dados de Recursos Humanos
 
 #### Excel - Dashbords, Macro e VBA
+
+Projeto 1 - Dashboard Financeiro da Empresa METEORO.
+
+Projeto 2 - Dashboard Financeiro da Empresa SERENATTO Café & Bistrô.
+
+Projeto 3 - Dashboard Financeiro sobre venda de suplementação
+
+Projeto 4 - Dashboard Financeiro referente a venda de 5 produtos em 4 unidades diferentes.
+
+Projeto 5 - Dashboard Fincanceiro mostrando a margem média mensal e o faturamento mensal dos produtos.
+
+Projeto 6 - Dashboard Financeiro mostrando as vendes de 4 lojas.
