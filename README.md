@@ -85,4 +85,4 @@ Projeto 4 - Dashboard Financeiro referente a venda de 5 produtos em 4 unidades d
 
 Projeto 5 - Dashboard Fincanceiro mostrando a margem média mensal e o faturamento mensal dos produtos.
 
-#### SQL (MYSQL)
+#### Sql (MySql)
