@@ -72,7 +72,7 @@ Projeto 3 - Dashboard Analítico de vendas Globais.
 Projeto 4 - Análise de campanhas de Marketing.
 
 Projeto 5 - Análise de dados de Recursos Humanos
-#### SQL 
+
 #### Excel - Dashbords, Macro e VBA
 
 Projeto 1 - Dashboard Financeiro da Empresa METEORO.
@@ -84,3 +84,5 @@ Projeto 3 - Dashboard Financeiro sobre venda de suplementação
 Projeto 4 - Dashboard Financeiro referente a venda de 5 produtos em 4 unidades diferentes.
 
 Projeto 5 - Dashboard Fincanceiro mostrando a margem média mensal e o faturamento mensal dos produtos.
+
+#### SQL (MYSQL)
