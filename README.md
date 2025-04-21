@@ -6,7 +6,7 @@
 - 📚 Estudante de Ciência de Dados e Gestão Financeira
 - 📈 Me preparando para a certificação AWS Practitioner
 - 🎓 Principais linguagens: Python, SQL e R
-- 💻 Conhecimento em Excel, Power BI 
+- 💻 Conhecimento em Excel, Power BI e AWS
 - 💪 Apaixonado por academia e desenvolvimento físico e mental
 
 "Dados não contam histórias, mas sua análise pode criar uma narrativa poderosa."
