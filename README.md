@@ -5,7 +5,7 @@
 - 🌍 Sou de Cotia - SP
 - 📚 Estudante de Ciência de Dados e Gestão Financeira
 - 📈 Me preparando para a certificação AWS Practitioner
-- 🎓 Principais linguagens: Python, SQL e R
+- 🎓 Principais linguagens: Python, SQL, R e Linux
 - 💻 Conhecimento em Excel, Power BI e AWS
 - 💪 Apaixonado por academia e desenvolvimento físico e mental
 
