@@ -7,7 +7,7 @@
 - 📈 Me preparando para a certificação AWS Practitioner
 - 🎓 Principais linguagens: Python, SQL, R e Linux
 - 💻 Conhecimento em Excel, Power BI e AWS
-- 💪 Apaixonado por academia e desenvolvimento físico e mental
+- 💪 Apaixonado por Café, dados e academia.
 
 "Dados não contam histórias, mas sua análise pode criar uma narrativa poderosa."
 
