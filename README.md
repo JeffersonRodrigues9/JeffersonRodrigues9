@@ -33,8 +33,7 @@
 
 ### 🤖 Linguagens e Tecnologias
 
-<img src="https://skillicons.dev/icons?i=python,mysql,r,github,linux,aws" />
-<img src="/imagens/databricks-logo.png" alt="Databricks" height="40" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,r,github,linux,aws," />
 </p>
 
 
