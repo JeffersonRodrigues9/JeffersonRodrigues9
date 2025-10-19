@@ -3,6 +3,7 @@
 **`Analista de Dados`**
 
 - 🌍 Sou de Cotia - SP
+- 🎓 
 - 📚 Estudante de Ciência de Dados e Gestão Financeira
 - 📈 Me preparando para a certificação AWS Practitioner
 - 🎓 Principais linguagens: Python, SQL, R e Linux
