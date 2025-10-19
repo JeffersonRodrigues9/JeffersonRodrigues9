@@ -4,7 +4,7 @@
 
 - 🌍 Sou de Cotia - SP
 - 🎓 Formado em Gestão Financeira
-- 📚 Estudante de Ciência de Dados e Gestão Financeira
+- 📚 Estudante de Ciência de Dados
 - 📈 Me preparando para a certificação AWS Practitioner
 - 🎓 Principais linguagens: Python, SQL, R e Linux
 - 💻 Conhecimento em Excel, Power BI, Inteligência Artificial, Databricks e AWS
