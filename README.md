@@ -1,6 +1,6 @@
 #  👨‍💻  Jefferson Rodrigues
 
-**`Analista de Dados`**
+**`Cientista de dados`**
 
 - 🌍 Sou de Cotia - SP
 - 🎓 Formado em Gestão Financeira
