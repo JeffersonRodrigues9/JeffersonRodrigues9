@@ -1,6 +1,7 @@
 #  👨‍💻  Jefferson Rodrigues da Silva
 
-**`Cientista de dados`**
+**`Cientista de dados`** **`Machine Learning Engineer`**
+
 
 - 🌍 Sou de Cotia - SP
 - 🎓 Formado em Gestão Financeira
