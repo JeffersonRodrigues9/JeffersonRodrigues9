@@ -3,7 +3,7 @@
 **`Cientista de dados`** **`Machine Learning Engineer`**
 
 
-- 🌍 Sou de Cotia - SP
+- 🌍 Sou de Itapevi - SP
 - 🎓 Formado em Gestão Financeira
 - 📚 Estudante de Ciência de Dados
 - 📈 Me preparando para a certificação AWS Practitioner
