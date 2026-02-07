@@ -7,7 +7,7 @@
 - 🎓 Formado em Gestão Financeira
 - 📚 Estudante de Ciência de Dados
 - 📈 Me preparando para a certificação AWS Practitioner
-- 🎓 Principais linguagens: Python, SQL, R e Linux
+- 🎓 Principais linguagens: Python, Java, SQL, R e Linux
 - 💻 Conhecimento em Excel, Power BI, Inteligência Artificial, Databricks, AWS e Azure
 - 💪 Apaixonado por Café, dados e academia.
 
