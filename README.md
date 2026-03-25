@@ -6,7 +6,7 @@
 - 🌍 Sou de São Paulo
 - 🎓 Formado em Gestão Financeira
 - 📚 Estudante de Ciência de Dados
-- 📈 Me preparando para a certificação AWS Practitioner
+- 📈 Me preparando para a certificação AWS Practitioner e AZ-900
 - 🎓 Principais linguagens: Python, Java, SQL, R e Linux
 - 💻 Conhecimento em Excel, Power BI, Inteligência Artificial, Databricks, AWS e Azure
 - 💪 Apaixonado por Café, dados e academia.
