@@ -8,7 +8,7 @@
 - 📚 Estudante de Ciência de Dados 
 - 💼 Estagiando em Análise de Dados com foco em automação de processos
 - ☁️ Em preparação para as certificações AWS Practitioner e AZ-900 
-- 🧠 Principais linguagens: Python, Java, SQL, R e Linux 
+- 🧠 Principais linguagens: Python, Java, SQL e Linux 
 - 📊 Ferramentas e conhecimentos: Excel, Power BI, IA, Databricks, AWS, Azure e Google Cloud
 - ☕🤖 Apaixonado por café, Estatística, IA e Machine Learning
 
