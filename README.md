@@ -1,6 +1,6 @@
 #  👨‍💻  Jefferson Rodrigues da Silva
 
-**`Cientista de dados`** **`Machine Learning Engineer`** **`engenharia de dados`**
+**`Cientista de dados`** **`engenharia de dados`**
 
 
 - 🌍 Sou de São Paulo 
