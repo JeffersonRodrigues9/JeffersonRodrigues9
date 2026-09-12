@@ -7,7 +7,7 @@
 - 🎓 Formado em Gestão Financeira 
 - 📚 Estudante de Ciência de Dados 
 - 💼 Estagiando em Business Intelligence | Data Analytics
-- 🧠 Principais linguagens: Python
+- 🧠 Principais linguagens: Python e DAX
 - 📊 Ferramentas e conhecimentos: Excel, Power BI, IA, AWS, Azure e Google Cloud
 - ☕🤖 Apaixonado por café, Estatística, IA e Machine Learning
 
